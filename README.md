@@ -7,7 +7,7 @@
 ## Work Experience
 
 ### Ontario Health
-### Data Scientist Jan 2024 - Jun 2024 (Co-op)
+### == Data Scientist == Jan 2024 - Jun 2024 (Co-op)
 
 ### Swiggy
 ### Manager Dec 2022- Jul 2023 
