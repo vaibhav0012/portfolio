@@ -6,6 +6,7 @@
   -	Strategic A/B Testing for maximizing profit during a Game Launch - 1st Runner up
 
 - Bachelor's of Technology | Vellore Institute of Technology (July 2020)
+  - Special Achiever for publishing research paper and leading a team for European Rover Challenge (2018,2019)
 
 ## Work Experience
 
