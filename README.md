@@ -2,6 +2,9 @@
 
 ## Education
 - Master in Management Analytics | University of Toronto (June 2024)
+- -	Vector Scholarship Recipient, Rotman Entrance Award Recipient (Merit Scholarship)
+- -	Strategic A/B Testing for maximizing profit during a Game Launch - 1st Runner up
+
 - Bachelor's of Technology | Vellore Institute of Technology (July 2020)
 
 ## Work Experience
