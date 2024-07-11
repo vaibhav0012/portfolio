@@ -12,7 +12,7 @@
 
 ### Ontario Health
 #### *Data Scientist* Jan 2024 - Jun 2024 (Co-op)
-
+_Ontario government agency focused on modernizing and improving health care system efficiency._
 - Improved strategy implementation consistency by developing a K-Means clustering algorithm and utilizing a BERT classifier (Accuracy 89%) for few-shot learning, categorizing over 300 strategies into six principal clusters.
 - Led a linear regression analysis to refine Ontario Health's operational goals, enhancing the accuracy of predictions for the average duration of patient hospital stays by 3.23% through strategy cluster integration.
 - Analyzed hospital strategies using a user-friendly PowerBI dashboard to assess their impacts, leading to strategic changes in 5% of cases and increasing efficiency by 2.33%, supporting the implementation of 720 strategy combinations.
